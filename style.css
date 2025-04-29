@@ -1,28 +1,28 @@
-._________ {
-  width: ________;
-  padding: ________;
-  border: ________ solid ________;
-  margin: ________;
-  background-color: ________;
-  height: ________; /* optional */
+.poster {
+  width: 250px;
+  padding: 15px;
+  border: 5px solid black;
+  margin: 15px auto;
+  background-color: Blue;
+  height: 100%; /* optional */
 }
 
 
 h1 {
-  font-size: ________;
+  font-size: 30px;
   text-align: center;
-  color: ________;
+  color: black;
 }
 
 h3 {
-  font-size: ________;
+  font-size: 10px;
   text-align: center;
-  color: ________;
+  color: black;
 }
 
 p {
-  font-size: ________;
-  text-align: ________;
-  color: ________;
+  font-size: 12px;
+  text-align: center;
+  color: black;
 }
 
